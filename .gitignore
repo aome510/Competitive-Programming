@@ -1,3 +1,5 @@
 *
 !*/
 !*.cpp
+!*.cc
+.ccls-cache
